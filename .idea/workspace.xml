@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ed86573-a666-4e9a-b71b-445396dc63cd" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/tildify/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/tildify/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/tildify/node_modules/os-homedir/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/tildify/node_modules/os-homedir/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/tildify/node_modules/os-homedir/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/tildify/node_modules/os-homedir/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/tildify/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/tildify/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/dest/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/dest/writeContents/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/dest/writeContents/writeBuffer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/dest/writeContents/writeDir.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/dest/writeContents/writeStream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/dest/writeContents/writeSymbolicLink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/fileOperations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/filterSince.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/prepareWrite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/sink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/src/getContents/bufferFile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/src/getContents/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/src/getContents/readDir.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/src/getContents/readSymbolicLink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/src/getContents/streamFile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/src/wrapWithVinylFile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/lib/symlink/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/.bin/mkdirp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/.bin/mkdirp.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/node_modules/once/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/node_modules/once/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/node_modules/once/node_modules/wrappy/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/node_modules/once/node_modules/wrappy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/node_modules/once/node_modules/wrappy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/node_modules/once/node_modules/wrappy/wrappy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/node_modules/once/once.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/node_modules/once/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/end-of-stream/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/inherits/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/inherits/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/inherits/inherits.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/inherits/inherits_browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/inherits/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/stream-shift/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/stream-shift/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/stream-shift/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/stream-shift/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/stream-shift/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/stream-shift/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/node_modules/stream-shift/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/duplexify/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/glob-stream/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/glob-stream/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/glob-stream/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/glob-stream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/LICENSE-MIT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/lib/lazystream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/secret" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/test/data.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/test/fs_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/test/helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/test/pipe_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/test/readable_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/lazystream/test/writable_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/bin/cmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/bin/usage.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/examples/pow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/example/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/dash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/default_bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/dotted.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/long.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/parse_modified.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/node_modules/minimist/test/whitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/chmod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/clobber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/mkdirp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/opts_fs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/opts_fs_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/perm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/perm_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/race.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/rel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/return.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/return_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/root.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/umask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/mkdirp/test/umask_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/strip-bom/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/strip-bom/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/is-utf8/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/is-utf8/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/is-utf8/is-utf8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/strip-bom/node_modules/is-utf8/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/strip-bom/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/strip-bom/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/LICENSE.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/LICENCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/immutable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/mutable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/through2/through2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vali-date/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vali-date/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vali-date/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vali-date/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/lib/cloneBuffer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/lib/inspectStream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/lib/isBuffer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/lib/isNull.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/lib/isStream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/clone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/test-apart-ctx.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/replace-ext/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/replace-ext/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/replace-ext/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/replace-ext/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/replace-ext/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/replace-ext/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/node_modules/replace-ext/test/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/node_modules/vinyl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/vinyl-fs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/lodash.assign/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/lodash.assign/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/lodash.assign/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/lodash.assign/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/.bin/semver" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/.bin/semver.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/hosted-git-info/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/hosted-git-info/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/hosted-git-info/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/hosted-git-info/git-host-info.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/hosted-git-info/git-host.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/hosted-git-info/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/hosted-git-info/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/is-builtin-module/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/is-builtin-module/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/builtin-modules.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/static.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/is-builtin-module/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/is-builtin-module/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/semver/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/semver/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/semver/bin/semver" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/semver/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/semver/range.bnf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/semver/semver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/AUTHORS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/node_modules/validate-npm-package-license/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/consistency.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/async.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/badscripts.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/bcrypt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/coffee-script.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/http-server.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/movefile.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/no-description.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/node-module_exist.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/npm.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/read-package-json.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/request.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/fixtures/underscore.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/normalize-package-data/test/typo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/require-main-filename/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/require-main-filename/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/require-main-filename/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/require-main-filename/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/require-main-filename/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/require-main-filename/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/require-main-filename/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/code-point-at/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/code-point-at/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/code-point-at/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/code-point-at/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/is-fullwidth-code-point/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/is-fullwidth-code-point/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/is-fullwidth-code-point/node_modules/number-is-nan/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/is-fullwidth-code-point/node_modules/number-is-nan/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/is-fullwidth-code-point/node_modules/number-is-nan/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/is-fullwidth-code-point/node_modules/number-is-nan/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/is-fullwidth-code-point/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/strip-ansi/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/strip-ansi/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/strip-ansi/node_modules/ansi-regex/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/strip-ansi/node_modules/ansi-regex/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/strip-ansi/node_modules/ansi-regex/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/strip-ansi/node_modules/ansi-regex/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/strip-ansi/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/node_modules/strip-ansi/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/string-width/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/window-size/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/window-size/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/window-size/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/window-size/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/window-size/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/yargs-parser/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/yargs-parser/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/yargs-parser/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/yargs-parser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/yargs-parser/lib/tokenize-arg-string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/yargs-parser/node_modules/camelcase/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/yargs-parser/node_modules/camelcase/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/yargs-parser/node_modules/camelcase/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/yargs-parser/node_modules/camelcase/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/module/node_modules/yargs/node_modules/yargs-parser/package.json" afterPath="" />
+    </list>
+    <ignored path="restAjax.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="restAjax" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jquery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.0987654">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2737864">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0493827">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding>
+                <element signature="e#72#994#0" expanded="false" />
+                <marker date="1487621732207" expanded="true" signature="490:516" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:534" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:535" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:536" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:557" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:558" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:587" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:588" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:590" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:591" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:592" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:631" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:632" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:655" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:656" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:690" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:918" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:939" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="490:940" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="690:740" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="690:806" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="690:807" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="690:808" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="690:887" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="754:764" placeholder="..." />
+                <marker date="1487621732207" expanded="true" signature="754:773" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jquery.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="862" />
+    <option name="y" value="103" />
+    <option name="width" value="919" />
+    <option name="height" value="909" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RestAPI Ajax Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RestAPI Ajax Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restAjax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RestAPI Ajax Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restAjax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ed86573-a666-4e9a-b71b-445396dc63cd" name="Default" comment="" />
+      <created>1487615836241</created>
+      <option name="number" value="Default" />
+      <updated>1487615836241</updated>
+    </task>
+    <task id="LOCAL-00001" summary="push nodes">
+      <created>1487624661831</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487624661831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="push js">
+      <created>1487624758359</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487624758359</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="862" y="103" width="919" height="909" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913166" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23294723" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push nodes" />
+    <MESSAGE value="push js" />
+    <option name="LAST_COMMIT_MESSAGE" value="push js" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0493827">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="e#72#994#0" expanded="false" />
+            <marker date="1487621732207" expanded="true" signature="490:516" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:534" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:535" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:536" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:557" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:558" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:587" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:588" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:590" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:591" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:592" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:631" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:632" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:655" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:656" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:690" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:918" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:939" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="490:940" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="690:740" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="690:806" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="690:807" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="690:808" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="690:887" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="754:764" placeholder="..." />
+            <marker date="1487621732207" expanded="true" signature="754:773" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0987654">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2737864">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
