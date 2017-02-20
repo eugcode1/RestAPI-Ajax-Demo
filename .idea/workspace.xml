@@ -98,8 +98,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.059859157">
-              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.029929578">
+              <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -293,7 +293,13 @@
       <option name="project" value="LOCAL" />
       <updated>1487625022398</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update README">
+      <created>1487625177603</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1487625177603</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -326,7 +332,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push nodes" />
     <MESSAGE value="push js" />
-    <option name="LAST_COMMIT_MESSAGE" value="push js" />
+    <MESSAGE value="Update README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -397,8 +404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.059859157">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.029929578">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
           <folding />
         </state>
       </provider>
