@@ -4,11 +4,11 @@ Demonstrating RestAPI 4 verb CRUD - Create(POST) Read(GET) Update(PUT) Delete(DE
 Simple node.js project showing how to use ajax requests to get/add/update/remove products in index.html<br/>
 
 <br/>
-npm package installed:<br/>
+<b>npm package installed:</b><br/>
 1. express(easy routing and handle http requests)<br/>
 2. body-parser(parse json to read input)<br/>
 <br/>
-Command:<br/>
+<b>Command:</b><br/>
 npm init -y //get package.json, set default options<br/>
 npm i -S express body-parser//install package<br/>
 Or<br/>
@@ -17,6 +17,6 @@ npm install body parser<br/>
 <br/>
 node server//run server<br/>
 <br/>
-test link:<br/>
+<b>test link:</b><br/>
 http://localhost:3000/
 
