@@ -3,7 +3,8 @@ $(function(){
     $('#get-button').on('click', function(){
         $.ajax({
             url: '/products',
-            contentType: 'pplication/json',
+            method: 'GET',//default
+            contentType: 'application/json',
             success: function(response) {//when request successful
                 //console.log(response);
                 var tbodyEl = $('tbody');
@@ -32,7 +33,7 @@ $(function(){
         var createInput = $('#create-input');//grap value from ajax
 
         $.ajax({
-           url: '/products',//url to server
+            url: '/products',//url to server
             method: 'POST',//Default is GET
             contentType: 'application/json',
             data: JSON.stringify({ name: createInput.val() }),//data to send to
